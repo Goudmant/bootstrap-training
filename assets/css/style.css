@@ -9,7 +9,7 @@
   color: #ffffff;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   margin: 0%;
-  max-width: 200%;
+  max-width: 100%;
 }
 
 .img-circle {
@@ -18,7 +18,7 @@
   height: 100px;
   border-radius: 50%;
   display: block;
-  margin: 0%;
+  margin-top: 2%;
 }
 
 .img {
@@ -61,5 +61,14 @@ p {
 
 B {
   color: #8d0361;
+}
+
+h1 {
+  color: black;
+  border: black;
+  border-style: solid;
+  text-align: center;
+  margin: 3%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
